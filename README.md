@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Andrés Garzón Sánchez</h1>
-<h3 align="center">Software Engineer, Full Stack Developer, and Advocate for Tech Communities from Colombia.</h3>
+<h3 align="center">Software Engineer, Full Stack Developer, and Advocate for Tech Communities.</h3>
 
 - 🔭 I’m currently working on **Distribuited system cloud base**
 
